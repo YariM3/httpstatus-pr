@@ -162,7 +162,7 @@ p.sub-title-en.inspired {
     display: none;
 }
 
-a.info-button, button.print-button {
+a.info-button, button.print-button, a.email-button {
     background-color: white;
     border: 1px solid white;
     margin-right: 10px;
@@ -367,7 +367,7 @@ p#year {
         bottom: 0px;
         width: 98vw;
     }
-    .print-button, .info-button, .inspired, .sub-title.inspirado, .back-container, .forward-container {
+    .print-button, .info-button, .email-button, .inspired, .sub-title.inspirado, .back-container, .forward-container {
         display: none;
     }
 
