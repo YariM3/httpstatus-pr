@@ -18,7 +18,7 @@ cd Projectos/httpstatus-website/
 3. Clone el repositorio en Github para el proyecto HTTP Status Code corriendo el siguiento comando:
 
 ```bash
-git clone https://github.com/httpstatus-pr.git
+git clone https://github.com/YariM3/httpstatus-pr.git
 ```
 
 4. Navega hacia el repositorio clonado corriendo el siguiente comando.
@@ -51,7 +51,7 @@ cd Projects/httpstatus-website/
 3. Clone HTTP Status Code's GitHub repository by running the command:
 
 ```bash
-git clone https://github.com/httpstatus-pr.git
+git clone https://github.com/YariM3/httpstatus-pr.git
 ```
 
 4. Navigate to the recently cloned repository by running the command line.
