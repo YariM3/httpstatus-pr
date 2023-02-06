@@ -2,6 +2,7 @@
 ===================
 
 **Español**
+<br />
 Estados de código del protocolo de transferencias de hipertexto... y Puerto Rico
 
 *Clonar repositorio:*
@@ -34,6 +35,7 @@ cd httpstatus-pr
 
 -----------
 **English**
+<br />
 HyperText Transfer Protocols... and Puerto Rico
 
 *Clone Repository:*
