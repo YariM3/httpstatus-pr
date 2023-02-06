@@ -20,7 +20,7 @@ function renderGrid (statusCode) {
     statusDescription.setAttribute("class", "status-description");
     statusDescriptionSm.setAttribute("class", "status-description-smll");
     // defines a href and image source
-    wrapper.setAttribute("href", "./pages/code-" + currentCode.statusNumber + ".html");
+    wrapper.setAttribute("href", "./code-" + currentCode.statusNumber + ".html");
     image.src = currentCode.src;
     image.alt = currentCode.statusTitle;
     statusNumber.innerText = currentCode.statusNumber;
