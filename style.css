@@ -538,7 +538,7 @@ p#year {
 
 /* Responsiveness */
 
-@media screen  and (max-width: 500px) {
+@media screen and (max-width: 500px) {
     header {
         align-items: center;
     }
@@ -621,7 +621,7 @@ p#year {
     }
 }
 
-@media screen  and (min-width: 501px) and (max-width: 675px) {
+@media screen and (min-width: 501px) and (max-width: 675px) {
     header {
         align-items: center;
     }
@@ -665,7 +665,7 @@ p#year {
 }
 
 
-@media screen  and (min-width: 676px) and (max-width: 815px) {
+@media screen and (min-width: 676px) and (max-width: 815px) {
     header {
         align-items: center;
     }
@@ -719,7 +719,7 @@ p#year {
         justify-content: start;
     }
     .wrapper {
-        width: 30%;
+        width: 46%;
     }
 }
 
