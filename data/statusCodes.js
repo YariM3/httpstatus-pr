@@ -19,8 +19,8 @@ const statusCode = [
   },
   {
     statusNumber: '103',
-    statusTitle: 'early hits',
-    statusTitleEs: 'capturas tempranas',
+    statusTitle: 'early hints',
+    statusTitleEs: 'Primeros Avisos',
     src: './images/code-103.jpeg',
   },
   {
