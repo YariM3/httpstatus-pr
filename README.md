@@ -36,7 +36,7 @@ cd httpstatus-pr
 -----------
 **English**
 <br />
-HyperText Transfer Protocols... and Puerto Rico
+HyperText Transfer Protocols Status Codes... and Puerto Rico
 
 *Clone Repository:*
 
