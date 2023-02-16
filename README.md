@@ -3,7 +3,7 @@
 
 **Español**
 <br />
-Estados de código del protocolo de transferencias de hipertexto... y Puerto Rico
+Códigos de estado del protocolo de transferencias de hipertexto... y Puerto Rico
 
 *Clonar repositorio:*
 
